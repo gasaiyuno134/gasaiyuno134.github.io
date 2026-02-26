@@ -1384,7 +1384,7 @@ pre code {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #db0bb5;
+  background: #7506f5;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -2719,9 +2719,30 @@ header.header {
   }
 }
 .site-title {
+  font-size: 36px;
+  font-weight: bold;
   color: #ff69b4;
 }
 .site-subtitle {
+  font-size: 18px;
+  font-weight: normal;
+  color: #ff69b4;
+}
+.site-author-name {
+  color: #ff69b4;
+  font-size: 20px;
+  font-weight: 600;
+}
+.footer {
+  color: #fff;
+}
+.footer a {
+  color: #f0f0f0;
+}
+.footer a:hover {
+  color: #ff69b4;
+}
+.footer .author {
   color: #ff69b4;
 }
 body {
