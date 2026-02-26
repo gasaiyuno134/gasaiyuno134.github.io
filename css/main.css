@@ -1384,7 +1384,7 @@ pre code {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #7506f5;
+  background: #e7ff9c;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -2724,8 +2724,8 @@ header.header {
   color: #ff69b4;
 }
 .site-subtitle {
-  font-size: 18px;
-  font-weight: normal;
+  font-size: 20px;
+  font-weight: bold;
   color: #ff69b4;
 }
 .site-author-name {
