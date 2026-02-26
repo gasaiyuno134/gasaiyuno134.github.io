@@ -100,6 +100,19 @@ td {
 a img {
   border: none;
 }
+/* 修改主标题样式 */
+.site-title {
+  color: #ff69b4;
+  font-family: "Arial Black", "黑体", sans-serif;
+  font-size: 2.8rem; /* 字体大小 */
+  font-weight: bold; /* 字体粗细 */
+}
+.site-subtitle {
+  color: #ff69b4;
+  font-family: "Arial", sans-serif;
+  font-size: 1.4rem;
+  font-weight: 500;
+}
 input,
 button {
   margin: 0;
