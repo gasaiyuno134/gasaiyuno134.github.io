@@ -1344,15 +1344,21 @@ pre .javascript .function {
   margin-right: 5px;
   display: inline-block;
 }
-.site-title {
-  color: #ff69b4;
-  font-family: "Arial Black", "黑体", sans-serif;
-  font-size: 2.8rem; /* 字体大小 */
-  font-weight: bold; /* 字体粗细 */
+header h1 a {
+  color: #ff69b4 !important;
+  font-weight: 900 !important;
+  font-size: 38px !important;
+  border: 3px solid #ff69b4 !important;
+  padding: 10px 22px !important;
+  border-radius: 10px !important;
+  display: inline-block !important;
 }
-.site-subtitle {
-  color: #ff69b4;
-  font-family: "Arial", sans-serif;
-  font-size: 1.4rem;
-  font-weight: 500;
+header h2 {
+  color: #ff69b4 !important;
+  font-weight: 900 !important;
+  font-size: 22px !important;
+  border: 2px solid #ff69b4 !important;
+  padding: 6px 16px !important;
+  border-radius: 8px !important;
+  display: inline-block !important;
 }
