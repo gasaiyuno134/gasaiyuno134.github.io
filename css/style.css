@@ -1344,21 +1344,21 @@ pre .javascript .function {
   margin-right: 5px;
   display: inline-block;
 }
-header h1 a {
+.header .site-title {
   color: #ff69b4 !important;
   font-weight: 900 !important;
-  font-size: 38px !important;
+  font-size: 32px !important;
   border: 3px solid #ff69b4 !important;
-  padding: 10px 22px !important;
-  border-radius: 10px !important;
+  padding: 10px 20px !important;
   display: inline-block !important;
+  border-radius: 10px !important;
 }
-header h2 {
+.header .site-subtitle {
   color: #ff69b4 !important;
   font-weight: 900 !important;
-  font-size: 22px !important;
+  font-size: 20px !important;
   border: 2px solid #ff69b4 !important;
-  padding: 6px 16px !important;
-  border-radius: 8px !important;
+  padding: 5px 15px !important;
   display: inline-block !important;
+  border-radius: 8px !important;
 }
